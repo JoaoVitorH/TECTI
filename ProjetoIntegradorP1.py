@@ -5,6 +5,7 @@ import time
 
 
 textwelcome = pyfiglet.figlet_format("Sistema da qualidade do ar", width=100)
+textwelcom = pyfiglet.figlet_format("Sistema da qualidade do ar", width=100)
 add = pyfiglet.figlet_format("Adicionar Amostra", width=100)
 alter = pyfiglet.figlet_format("Alterar Amostra", width=100)
 delete = pyfiglet.figlet_format("Excluir Amostra", width=100)
